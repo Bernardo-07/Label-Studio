@@ -5,5 +5,5 @@
 #Notebook: FI27 DISSEC67 (2,5x10 - 5x10)
 
 #Unfinished
-#Desktop: 
+#Desktop: 6026
 #Notebook: 
